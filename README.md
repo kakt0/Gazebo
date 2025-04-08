@@ -4,3 +4,10 @@
 ```
 . ~/workspace/install/setup.bash
 ```
+
+# ROS2
+
+Для начала работы с ROS2 необходимо вызвать рабочее пространство:
+```
+. ~/ros2_jazzy/install/local_setup.bash
+```
