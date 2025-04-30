@@ -15,5 +15,5 @@
 # Python
 Активация виртуального окружения Python:
 ```
-source my-env/bin/activate
+source my-venv/bin/activate
 ```
