@@ -11,3 +11,9 @@
 ```
 . ~/ros2_jazzy/install/local_setup.bash
 ```
+
+# Python
+Активация виртуального окружения Python:
+```
+source my-env/bin/activate
+```
